@@ -6,6 +6,9 @@ contributor:
     birthdate: 1883
     gutenberg_agent_id: '45093'
     url: http://www.gutenberg.org/2009/agents/45093
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chekhov, Anton Pavlovich
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53029#Avioliittoja-Kokoelma-aviotarinoita
 gutenberg_issued: '2016-09-11'
 gutenberg_type: Text
 identifiers:
